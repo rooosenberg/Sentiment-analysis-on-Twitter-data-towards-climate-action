@@ -8,7 +8,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## Data
 - Training: The training of the Regression model was done with the Kaggle dataset [Sentiment140](https://www.kaggle.com/datasets/kazanova/sentiment140).
-- Collected data: It was collected with the python package, Tweepy. 
+- Collected data: It was collected with the python package, Tweepy. For the collecte draw data see [Google drive file](https://drive.google.com/drive/folders/1CsGv0CyDpat7TNP4wRuXDuqUBcpkABUj?usp=drive_link). 
 - Annotated data: 247 tweets was annoteded as positive, neutral and negative.  
 
 ## BERT-model
