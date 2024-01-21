@@ -13,9 +13,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## BERT-model
 The TweetBert model was used for tokanization. For more information about the model see [Hugging Face model card](https://huggingface.co/docs/transformers/model_doc/bertweet). 
+The BERT-model was runned on GPU. 
 
 ## Regression model
-The model can be found under code/Sentiment analysis/Model/
+The model can be found under code/Sentiment analysis/Model/. 
+The regression model was trained on Google Colab. 
 
 
 
